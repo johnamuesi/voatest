@@ -1,7 +1,7 @@
 # voatest
 Test for VOA
 
-Done:
+Done (quickly):
 Created Express app, with dependencies in server.js.
 setup Middleware and succesful connection to MongoDB on MongoLab
 created main routes for home, form, results
