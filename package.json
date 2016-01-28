@@ -1,0 +1,22 @@
+{
+  "name": "injury_search",
+  "version": "1.0.0",
+  "description": "Injury Search Engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Amuesi",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "govuk-elements-sass": "^1.1.1",
+    "hogan-express": "^0.5.2",
+    "mongoose": "^4.3.7",
+    "morgan": "^1.6.1",
+    "node-sass": "^3.4.2",
+    "node-sass-middleware": "^0.9.7"
+  }
+}
